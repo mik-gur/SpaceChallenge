@@ -1,4 +1,6 @@
 # SpaceChallenge
+Exercise from Udacity
+
 Rocket Specifications
 
 U-1
